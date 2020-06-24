@@ -1,1 +1,1 @@
-# audiodriven_movie_plus_noise_manipulation
+# This repo contains a TouchDesigner-External (.tox) with a patch used for the audiodriven manipulation of two movies and visual noise as it was applied in the Impro-Performance of H.C.BEHRENDTSEN + janeinargroh at Lager2 https://youtu.be/-CDBUJk3Xpw
